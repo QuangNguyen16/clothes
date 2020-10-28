@@ -10,7 +10,6 @@ import { BoxBrandsProductsComponent } from './layout/share/content2/box-brands-p
 import { BoxCategoryTabComponent } from './layout/share/content2/box-category-tab/box-category-tab.component';
 import { BoxFeaturesItemsComponent } from './layout/share/content2/box-features-items/box-features-items.component';
 import { BoxPriceComponent } from './layout/share/content2/box-price/box-price.component';
-import { BoxRecomenItemsComponent } from './layout/share/content2/box-recomen-items/box-recomen-items.component';
 import { CategoryProductComponent } from './layout/share/content2/category-product/category-product.component';
 import { FormsModule } from '@angular/forms'; // <-- NgModel lives here
 
@@ -40,7 +39,6 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     BoxFeaturesItemsComponent,
     BoxFooterComponent,
     BoxHeaderComponent,
-    BoxRecomenItemsComponent,
     CategoryProductComponent,
     BoxPriceComponent,
     BlogComponent,
